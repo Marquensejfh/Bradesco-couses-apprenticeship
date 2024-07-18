@@ -1,4 +1,4 @@
-# Bradesco-couses-apprenticeship
+# Bradesco-Python-couse-apprenticeship
 Random things I learned in Bradesco couses
 
 codigo = 10
@@ -22,7 +22,7 @@ def FSalario():
 )
 
 
-# =========================================================
+# ===================================
 def FAbc():
     A = 5
     B = 15
@@ -33,7 +33,7 @@ def FAbc():
     print("not A == B :", not A == B)
 
 
-# ========================================================
+# ===================================
 def FNota():
     notaA = float(input("\nDigite a nota do 1°Trimestre:"))
     notaB = float(input("\nDigite a nota do 2°Trimestre:"))
@@ -49,7 +49,7 @@ def FNota():
         print ("\n Reprovado, sua Media foi:",MediaFinal)
 
 
-#=========================================================
+# ===================================
 def FIdade():
 
     Idade = 0
@@ -61,13 +61,12 @@ def FIdade():
         print("menos de idade")
 
 
-# =========================================================
+# ===================================
 def FFruta():
     fruta = input("\ndigite uma fruta: ")
     print(fruta)
 
-
-# =========================================================
+# ===================================
 def F0a20():
     P2=0
     while P2<=15:
@@ -78,7 +77,7 @@ def F0a20():
         print (P1)
  
 
-# =========================================================
+# ===================================
 opcao = 0
     
 print ("\n------------------------------------------------------Menu------------------------------------------------------\n")
