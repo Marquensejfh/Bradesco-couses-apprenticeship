@@ -1,5 +1,10 @@
 # Bradesco-Python-couse-apprenticeship
-Random things I learned in Bradesco couses
+
+Random things I learned in Bradesco Python couses. This is a reminder for me 
+
+
+
+
 
 codigo = 10
 salario = 1500.00
