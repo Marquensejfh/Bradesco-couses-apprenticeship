@@ -4,14 +4,14 @@ Random things I learned in Bradesco Python couses. This is a reminder for me
 
 
 
+# Code 
 
+codigo = 10;
+salario = 1500.00;
+nome = "jose";
+situacao = True;
 
-codigo = 10
-salario = 1500.00
-nome = "jose"
-situacao = True
-
-tipo = type(situacao)
+tipo = type(situacao);
 
 def FSalario():
     print(
